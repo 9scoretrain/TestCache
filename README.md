@@ -1,0 +1,4 @@
+# TestCache
+Singleton + dataTask
+
+
