@@ -1,4 +1,4 @@
 # TestCache
-Singleton + dataTask
+dataTask + Singleton
 
 
